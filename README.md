@@ -1,0 +1,1 @@
+Šeit var atrast visu programmatūru zinātniski pētnieciskajam darbam "Nejaušu skaitļu ģenerācija, izmantojot smilšu pulksteņus". "Branch main" atrodas nejaušu skaitļu ģenerēšanas metode, "main" faile, "clock_rng.zip", kur atrodas pilnīgi visa programmatūra, un citi nepieciešami faili. "Branch NIST STS tests" atrodas NIST STS statistisku testu pakete.
